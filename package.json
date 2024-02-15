@@ -1,0 +1,25 @@
+{
+  "name": "Notification-Delivery-System",
+  "version": "1.0.0",
+  "description": "Multi-Channel Notification Delivery System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admirer145/Notification-Delivery-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admirer145/Notification-Delivery-System/issues"
+  },
+  "homepage": "https://github.com/admirer145/Notification-Delivery-System#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
