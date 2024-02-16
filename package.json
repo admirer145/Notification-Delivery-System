@@ -2,10 +2,10 @@
   "name": "Notification-Delivery-System",
   "version": "1.0.0",
   "description": "Multi-Channel Notification Delivery System",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodemon src/app.js"
   },
   "repository": {
     "type": "git",
