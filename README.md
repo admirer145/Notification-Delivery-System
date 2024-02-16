@@ -23,9 +23,9 @@ A Multi-Channel Notification Delivery System serves as a critical infrastructure
 
 ### DB Design
 
-![Architecture]('/assets/images/db_schema.jpg')
+![Architecture](/assets/images/db_schema.jpg)
 
 
 ### System Architecture
 
-![Architecture]('/assets/images/arch.jpg')
+![Architecture](/assets/images/arch.jpg)
