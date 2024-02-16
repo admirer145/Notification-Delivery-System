@@ -6,8 +6,8 @@ const app = express();
 app.use(bodyParser.json());
 
 // Routes
-const userRoutes = require('./src/routes/userRoutes');
-const notificationRoutes = require('./src/routes/notificationRoutes');
+const userRoutes = require('./routes/userRoutes');
+const notificationRoutes = require('./routes/notificationRoutes');
 
 // Mounting routes
 app.use('/api/users', userRoutes);
